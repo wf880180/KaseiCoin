@@ -10,14 +10,18 @@ The crowdsale contract that you create will manage the entire crowdsale process,
 **KaseiCoinCrowdsale complier
 
 ![alt text](https://github.com/wf880180/KaseiCoin/blob/main/Evaluation_Evidence/KaseiCoinCrowdsale.png)
+
 **KaseiCoinCrowdsaleDeployer complier
 
 ![alt text](https://github.com/wf880180/KaseiCoin/blob/main/Evaluation_Evidence/KaseiCoinCrowdsaleDeployer.png)
 
 **User Guide
 1.  link Ganache, Metamask, and Remix.
-</br></br></br>
+</br></br>
 2.
 	- Choose "KaseiCoinCrowdsaleDeplayer - KaseiCoinCrowdsale.sol" in COMTRACT.
 	- Type in Name, symbol, and wallet. Wallet would be the address type.
 	- Click transact and Metamast would pop-up the confirmation of contract.
+![alt text](https://github.com/wf880180/KaseiCoin/blob/main/Evaluation_Evidence/KaseiCoinCrowdsaleDeployer_transact.png)
+</br></br>
+3.
