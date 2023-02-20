@@ -46,6 +46,13 @@ The crowdsale contract that you create will manage the entire crowdsale process,
 	- Fill in the amount of Ether or wei for transfer.
 	- Fill the beneficiary into buyToken blank, and click "buyTokens".
 	- The Metamask confirmation would pop-up and click confirm.
+
 ![alt text](https://github.com/wf880180/KaseiCoin/blob/main/Evaluation_Evidence/BuyToken_confirm.png)
+
+</br></br>
+
+6. Click "WeiRaised" check if the token has been transfer.
+
+![alt text](https://github.com/wf880180/KaseiCoin/blob/main/Evaluation_Evidence/WeiRaised.png)
 
 </br></br>
