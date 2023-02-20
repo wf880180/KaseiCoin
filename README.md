@@ -21,7 +21,10 @@ The crowdsale contract that you create will manage the entire crowdsale process,
 2.
 	- Choose "KaseiCoinCrowdsaleDeplayer - KaseiCoinCrowdsale.sol" in COMTRACT.
 	- Type in Name, symbol, and wallet. Wallet would be the address type.
-	- Click transact and Metamast would pop-up the confirmation of contract.
+	- Click transact and Metamast would pop-up the confirmation of contract, and click confirm.
+	
 ![alt text](https://github.com/wf880180/KaseiCoin/blob/main/Evaluation_Evidence/KaseiCoinCrowdsaleDeployer_transact.png)
 </br></br>
-3.
+3. Call kasei_token_address and kasei_crowdsale_address, and copy kasei_token_address result.
+
+![alt text](https://github.com/wf880180/KaseiCoin/blob/main/Evaluation_Evidence/KaseiCoinCrowdsaleDeployer_transact.png)
